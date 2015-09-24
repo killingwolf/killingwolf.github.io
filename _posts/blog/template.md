@@ -9,4 +9,4 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[killingwolf]:    http://killingwolf.com  "killingwolf"
