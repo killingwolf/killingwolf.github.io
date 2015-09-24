@@ -1,2 +1,2 @@
-# killingwolf.github.io
-www.killingwolf.com
+# 参考资料，感谢作者！
+http://beiyuu.com/github-pages/
